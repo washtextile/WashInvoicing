@@ -1,0 +1,343 @@
+product,price
+01:Apron,0.57
+01:Baby Blanket,1.09
+01:Bar Mop,0.35
+01:Bath Mat,0.84
+"01:Bath Mat, Reclaimed",1.26
+01:Bath Towel,1.09
+"01:Bath Towel, Reclaimed",1.64
+01:Boudior Slip,0.46
+01:Crib Mattress Cover,0.5
+01:Delivery Fee,12
+01:Dog Bed Cover,4.54
+01:Dog Bed Insert,3.75
+01:Down Blanket,7.17
+01:Duvet Cover,3.43
+"01:Duvet Cover, Reclaimed",5.15
+01:Duvet Insert,6.88
+"01:Duvet Insert, Reclaimed",10.33
+"01:Fitted, Reclaimed",2.58
+"01:Flat, Reclaimed",2.4
+01:Fleece Blanket,4.54
+01:Hand Towel,0.64
+"01:Hand Towel, Reclaimed",0.96
+01:King Deco,1.61
+01:King Fitted,1.72
+01:King Flat,1.61
+01:Laundry Bag,0.59
+"01:Linen Service, Monthly Total",173.33
+01:Mattress Pad,4.59
+"01:Mattress Pad, Reclaimed",6.88
+"01:Napkin, laundered and pressed",0.3
+01:Pillow,1.85
+01:Pillowcase,0.47
+"01:Pillowcase, Reclaimed",0.69
+01:Pull Out Mattress Pad,4.59
+"01:Pull Out Mattress Pad, Reclaimed",6.88
+01:Queen Deco,1.61
+01:Queen Fitted,1.72
+01:Queen Flat,1.61
+01:Robe,4.59
+01:Sales,
+01:Shower Curtain,0.59
+"01:Tablecloth, Banquet",13.19
+"01:Tablecloth, laundered and pressed",5.74
+"01:Tablecloth, Round 132""",48.68
+01:Washcloth,0.4
+"01:Washcloth, Reclaimed",0.58
+02:Bath Mat,0.87
+"02:Bath Mat, Reclaimed",1.73
+02:Bath Robe,4.83
+02:Bath Towel,1.45
+"02:Bath Towel, Reclaimed",2.17
+02:Bed Skirt,2.6
+02:Crib Mattress Cover,1.16
+02:Delivery Fee,135
+02:Down Blanket,6.88
+02:Dry Mop,0.53
+02:Duvet Cover,5.74
+02:Duvet Insert,6.88
+02:Fitted Sheet,1.85
+"02:Fitted, Reclaimed",2.76
+02:Flat Sheet,1.79
+"02:Flat, Reclaimed",2.68
+02:Fleece Blanket,4.59
+02:Fuel Surcharge,7.44
+02:Hand Towel,0.69
+"02:Hand Towel, Reclaimed",1.38
+02:Laundry Bag,0.47
+02:Light Rug,1.16
+02:Linen Bags,0.59
+02:Mattress Pad,4.59
+02:Microfiber Cloth,0.4
+02:Pillow,4.59
+02:Pillowcase,0.59
+"02:Pillowcase, Reclaimed",0.87
+02:Rush Delivery Fee,150
+02:Shelving + Extra Trip Fee,300
+02:Washcloth,0.4
+"02:Washcloth, Reclaimed",0.78
+03:Apron,0.5
+03:Bar Mop,0.2
+"03:Linen Supply, Monthly Total",422.5
+03:Mop Head,3.75
+04:3x10 Walk-off Mat,8.8
+04:3x5 Walk-off Mat,3.95
+04:Apron,0.5
+04:Bar Mop,0.3
+"04:Linen Supply, Monthly Total",910
+05:3x5 Walk-off Mat,3.95
+05:Apron,0.5
+05:Bar Mop,0.2
+"05:Linen Supply, Monthly Total","1,360.66"
+05:Mop Head,2.5
+"05:Napkins, Bistro",0.14
+05:Polishing Cloths,0.6
+06:Bar Mop,0.3
+06:Napkin,0.14
+07:Apron,0.5
+07:Bar Mop,0.2
+"07:Linen Supply, Monthly Total",442
+08:50 Bar Mops,15
+08:Linen Supply,65
+"08:Linen Supply, Monthly Total",292.5
+09:4 Way Apron,0.5
+09:Bar Mop,0.3
+"09:Linen Supply, Monthly Total","2,231.66"
+09:Microfiber Towel,0.3
+09:Mop Head,2.5
+09:Napkin,0.1
+10:Bath Mat,0.87
+"10:Bath Mat, Reclaimed",2.16
+10:Bath Towel,1.51
+"10:Bath Towel, Reclaimed",3.75
+10:Cloth Diaper,1.86
+10:Comforter,4.59
+"10:Comforter, Heavy",6.88
+10:Curtain,5.3
+10:Delivery Fee,40
+10:Fitted Sheet,2.02
+"10:Fitted Sheet, Reclaimed",3.04
+10:Flat Sheet,1.91
+"10:Flat Sheet, Reclaimed",2.86
+10:Fleece Blanket,4.59
+10:Fuel Surcharge,8.16
+10:Hand Towel,0.69
+"10:Hand Towel, Reclaimed",1.73
+10:Pillowcase,0.59
+"10:Pillowcase, Reclaimed",0.87
+10:Quilt,4.36
+10:Washcloth,0.42
+"10:Washcloth, Reclaimed",1.01
+11:Bath Mat,1.1
+"11:Bath Mat, Reclaimed",1.65
+11:Bath Towel,1.56
+"11:Bath Towel, Reclaimed",2.34
+11:Blanket,4.59
+"11:Blanket, Specialty",5.74
+11:Delivery Fee,66
+11:Duvet Cover,8.04
+11:Duvet Insert,10.33
+11:Fitted Sheet,2.25
+11:Flat Sheet,2.02
+"11:Flat, Reclaimed",3.03
+11:Fleece Blanket,5.74
+11:Fuel Surcharge,13.66
+11:Hand Towel,0.64
+"11:Hand Towel, Reclaimed",0.96
+11:Mattress Pad,8.04
+11:Pillowcase,0.59
+11:Robe,5.74
+11:Rug,5.74
+11:Shower Curtain,0.93
+11:Washcloth,0.47
+"11:Washcloth, Reclaimed",0.58
+11:Zipper Mattress Cover,5.46
+12:Fitted Sheet,2.19
+12:Flat Sheet,2.02
+12:Pillowcase,0.59
+15:Fly Blanket,14.42
+15:Horse Blanket,16.48
+16:Minimum Charge,15
+16:Pants,0.9
+16:Shirt,0.8
+17:Bath Mat,0.84
+"17:Bath Mat, Reclaimed",1.65
+17:Bath Towel,1.38
+"17:Bath Towel, Reclaimed",2.76
+17:Delivery Fee,12
+17:Duvet Cover,3.68
+17:Duvet Insert,4.59
+17:Fitted Sheet,1.73
+"17:Fitted Sheet, Reclaimed",3.45
+17:Flat Sheet,1.97
+"17:Flat Sheet, Reclaimed",2.76
+17:Fleece Blanket,4.71
+17:Hand Towel,0.64
+"17:Hand Towel, Reclaimed",1.28
+"17:Linen Service, Monthly Total",208
+17:Mattress Pad,6.88
+17:Pillow,1.97
+17:Pillowcase,0.47
+"17:Pillowcase, Reclaimed",0.93
+17:Quilt,3.45
+17:Robe,4.59
+17:Washcloth,0.4
+"17:Washcloth, Reclaimed",0.78
+17:Wool Blanket,5.74
+"18:Linen Supply, Monthly Total",938
+"19:Linen Service, Monthly Total",114.72
+"20:Linen Service, Monthly Total",87.31
+21:Bath Mat,0.82
+"21:Bath Mat, Reclaimed",1.22
+21:Bath Towel,1.45
+"21:Bath Towel, Reclaimed",2.16
+21:Delivery Charge,54.59
+21:Duvet Insert,6.88
+21:Flat Sheet,1.79
+"21:Flat Sheet, Reclaimed",2.68
+21:Hand Towel,0.64
+"21:Hand Towel, Reclaimed",0.96
+21:Pillowcase,0.69
+"21:Pillowcase, Reclaimed",1.04
+21:Robe,5.18
+21:Rush Delivery,1.16
+21:Shower Curtain,0.87
+21:Sunday Call-in Fee,1.16
+21:Washcloth,0.4
+"21:Washcloth, Reclaimed",0.58
+23:Baby Blanket,0.82
+23:Bar Mop,0.4
+23:Bath Mat,0.87
+"23:Bath Mat, Reclaimed",1.48
+23:Bath Towel,1.45
+"23:Bath Towel, Reclaimed",2.16
+23:Bed Skirt,5.52
+23:Blanket,5.74
+23:Body Pillow,2.31
+23:Crib Sheet,0.59
+23:Delivery Fee,12
+23:Duvet Cover,3.75
+23:Duvet Insert,5.74
+23:Fitted Sheet,1.73
+23:Flat Sheet,1.79
+"23:Flat, Reclaimed",2.68
+23:Fleece Blanket,4.49
+23:Fuel Surcharge,1.71
+23:Hand Towel,0.64
+"23:Hand Towel, Reclaimed",0.96
+23:Mattress Pad,5.74
+23:Pillow,2.02
+23:Pillowcase,0.59
+"23:Pillowcase, Reclaimed",0.87
+23:Quilt,4.49
+23:Quilted Duvet Cover,6.88
+23:Quilted Sham,0.82
+23:Robe,5.18
+23:Rush Delivery Fee,50
+23:Shower Curtain,2.12
+23:Throw Pillow,1.73
+23:Washcloth,0.4
+"23:Washcloth, Reclaimed",0.58
+24:Baby Blanket,1.5
+24:Bath Towel,1.49
+24:Bed Sheet,1.98
+24:Blanket,3.6
+"24:Delivery Fee, 5 days",15
+24:Flat Sheet,1.98
+24:Fuel Surcharge,1.72
+24:Hand Towel,0.66
+24:Hat,0.33
+24:Heavy Gown,1.38
+24:Jacket,1.26
+24:Kids Gown,1.5
+24:Lab Coat,1.14
+24:Label Fee (New Garment),2.5
+24:Lap Blanket,3
+24:Minimum Charge,50
+24:Nurse Gown,1.26
+24:Patient Gown,1.26
+24:Pillowcase,0.72
+24:Scrub Bottom,0.93
+24:Scrub Top,1.17
+24:Scrub Tup,1.17
+24:Washcloth,0.4
+"25:Linen Service, Monthly Total",260
+26:90x156 Tablecloth,7.65
+"26:90x156 Tablecloth, Laundered & Pressed",17.47
+26:Bath Mat,0.88
+26:Bath Towel,1.49
+26:Bed Skirt,4.11
+"26:Bundled Sets, Put Together",27.3
+26:Crib Sheet,0.56
+26:Duvet Cover,5.46
+26:Duvet Insert,6.56
+26:Fitted Sheet,1.92
+26:Flat Sheet,1.81
+26:Hand Towel,0.61
+26:Mattress Pad,6.56
+26:Pillow,3.02
+26:Pillowcase,0.56
+26:Rug,3.28
+26:Sham,65.51
+26:Washcloth,0.4
+"27:Linen Supply, Monthly Total",530.83
+"28:Linen Supply, Monthly Total",218.83
+"31:Linen Service, Monthly Total",372.66
+"32:Linen Service, Monthly Total",216.67
+33:120 Round Tablecloth,20
+33:52x114 Tablecloth,14
+33:85x85 Tablecloth,18
+"33:90"" Round",18
+33:90x132 Tablecloth,14
+33:90x156 tablecloth,16
+"33:Linen Supply, Monthly Total",206.58
+"34:Linen Supply, Monthly Total","1,516.66"
+"35:Linen Supply, Monthly Total",631.58
+36:Bath Mat,1.45
+36:Bath Towel,1.85
+36:Blanket,4.5
+36:Blankket,5
+36:Duvet Cover,5
+36:Fitted Sheet,1.85
+36:Flat Sheet,1.75
+36:Hand Towel,0.95
+36:Mattress Pad,4
+36:New Product Unpack Fee,75
+36:Pillowcase,0.75
+36:Washcloth,0.6
+"37:120"" Round",20
+37:52 x 114 Tablecloth,16
+37:52 x 52 Tablecloth,14
+37:52 x 72 Tablecloth,15
+37:62 x 62 Tablecloth,15
+37:85 x 85 Tablecloth,18
+37:90 x 156 Tablecloth,16
+"37:90"" Round",18
+37:Bar Towel,0.38
+37:Delivery Fee - Winter,75
+"37:Linen Service, Monthly Total",268.66
+37:Mop Head,2.75
+37:Napkin,0.18
+37:Weekly Summer Service,492.75
+38:Monthly Linen Service Total,1295
+"39:Linen Service, Monthly Total",358.36
+40:6% Service Fee,37.27
+"40:Linen Service, Monthly Total",621.18
+41:52x114 Tablecloth,13
+41:52x52 Tablecloth,5.9
+41:90x90 Tablecloth,19
+41:Delivery Fee,100
+41:Napkins,0.18
+"42:Linen Supply, Monthly Total",118.73
+"43:Linen Supply, Monthly Total",474.5
+Linen Service,1
+Misc Laundry,175
+"Pillow, Decorative",2
+44:Flat Sheet,1.35
+44:Hand Towel,0.3
+44:Bath Mat,0.7
+44:Bath Towel,1
+44:Washcloth,0.18
+44:Pillowcase,0.4
+44:Delivery Fee,6
